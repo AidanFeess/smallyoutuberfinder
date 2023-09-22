@@ -1,6 +1,6 @@
 {
-    "name": "My Extension",
-    "description": "A plain text description",
+    "name": "sytf",
+    "description": "small youtuber finder",
     "version": "1.0.0",
     "manifest_version": 3,
     "action": {
